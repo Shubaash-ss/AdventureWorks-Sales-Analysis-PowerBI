@@ -78,6 +78,6 @@ DAX (Data Analysis Expressions)
 Power Query (ETL)
 
 Excel (Data Source)
-Total Customers = DISTINCTCOUNT(AdventureWorks_Sales_2017[CustomerKey])
+
 
 Avg Revenue Per Customer = DIVIDE([Total Revenue], [Total Customers], 0)
