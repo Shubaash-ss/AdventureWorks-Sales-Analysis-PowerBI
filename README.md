@@ -80,4 +80,3 @@ Power Query (ETL)
 Excel (Data Source)
 
 
-Avg Revenue Per Customer = DIVIDE([Total Revenue], [Total Customers], 0)
