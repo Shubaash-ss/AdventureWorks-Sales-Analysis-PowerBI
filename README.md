@@ -2,7 +2,7 @@
 # 🚲 AdventureWorks Sales & Profitability Analysis (Power BI)
 
 ## 📌 Project Overview
-This project delivers an end-to-end Business Intelligence solution built using **Power BI Desktop**. The analysis evaluates company performance for **AdventureWorks** (2017), tracking **Revenue, Profit, Costs, Customer Growth, Product Profitability, and Geographic Performance**.
+This project delivers an end-to-end Business Intelligence solution built using **Power BI Desktop**. The analysis evaluates company performance for **AdventureWorks** (H1 2017 (Jan–Jun 2017)), tracking **Revenue, Profit, Costs, Customer Growth, Product Profitability, and Geographic Performance**.
 
 ---
 
